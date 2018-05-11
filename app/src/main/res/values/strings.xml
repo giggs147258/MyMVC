@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Akkhadet</string>
+    <string name="a1">What is this ?</string>
+    <string name="b1">Bee</string>
+    <string name="b2">Bird</string>
+    <string name="b3">Cat</string>
+    <string name="b4">Cow</string>
+    <string name="b5">Dog</string>
+    <string name="b6">Elephant</string>
+    <string name="b7">Horse</string>
+    <string name="b8">Lion</string>
+    <string name="b9">Pig</string>
+    <string name="b10">Sheep</string>
+    <string name="a2">Answer</string>
+    <string name="score">Score</string>
+    <string name="play">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="a3">YOUR SCORE</string>
+</resources>
